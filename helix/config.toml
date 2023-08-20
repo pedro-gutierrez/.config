@@ -1,0 +1,9 @@
+theme = "github_light"
+
+[editor]
+rulers = [80, 120]
+mouse = true
+
+[keys.normal]
+y = "yank_main_selection_to_clipboard"
+p = "paste_clipboard_before"
