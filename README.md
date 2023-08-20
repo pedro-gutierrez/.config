@@ -8,4 +8,5 @@ After cloning this repo, run:
 
 ## Elixir language server
 
-Download the latest release from https://github.com/elixir-lsp/elixir-ls/releases, and unzip it as `~/Projects/elixir-ls`
+* `wget https://github.com/elixir-lsp/elixir-ls/releases/download/v0.16.0/elixir-ls-v0.16.0.zip`
+* `unzip elixir-ls-v0.16.0.zip -d ~/Projects/elixir-ls`
