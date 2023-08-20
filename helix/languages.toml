@@ -8,7 +8,7 @@ auto-format = true
 diagnostic-severity = "Hint"
 comment-token = "#"
 indent = {tab-width = 2, unit = " "}
-language-server = {command = "elixir-ls"}
+language-server = {command = "/Users/pedrogutierrez/Projects/elixir-ls/language_server.sh"}
 
 
 [[language]]

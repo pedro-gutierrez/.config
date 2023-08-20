@@ -1,10 +1,14 @@
-theme = "github_light"
+theme = "classic"
 
 [editor]
-rulers = [80, 120]
+text-width = 100
 mouse = true
 cursorline = true
 color-modes = false
+
+[editor.soft-wrap]
+enable = true
+wrap-at-text-width = true
 
 [editor.cursor-shape]
 insert = "bar"
@@ -17,7 +21,6 @@ render = true
 [keys.normal]
 y = "yank_main_selection_to_clipboard"
 p = "paste_clipboard_before"
-# Global search word under cursor
 "@" = [
   "move_prev_word_start",
   "move_next_word_end",
