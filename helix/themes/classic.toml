@@ -67,12 +67,12 @@
 "ui.statusline.select" = { fg = "bg0", bg = "blue", modifiers = ["bold"] }
 "ui.bufferline" = { fg = "gray", bg = "bg1" }
 "ui.bufferline.active" = { fg = "fg", bg = "bg4", modifiers = ["bold"] }
-"ui.popup" = { bg = "bg3" }
-"ui.window" = { fg = "gray", bg = "bg3" }
+"ui.popup" = { bg = "light-magenta" }
+"ui.window" = { fg = "gray", bg = "light-magenta" }
 "ui.help" = { fg = "fg", bg = "bg3" }
 "ui.text" = "fg"
 "ui.text.focus" = "green"
-"ui.menu" = { fg = "fg", bg = "bg3" }
+"ui.menu" = { fg = "fg", bg = "light-magenta" }
 "ui.menu.selected" = { fg = "fg", bg = "bg2" }
 "ui.virtual.whitespace" = { fg = "bg4" }
 "ui.virtual.indent-guide" = { fg = "bg4" }
@@ -104,7 +104,7 @@ light-red     = "#636364"
 light-green   = "#60BA42"
 light-yellow  = "#efc100"
 light-blue    = "#C4DEFC"
-light-magenta = "#9b70b6"
+light-magenta = "#F9D9FD"
 light-cyan    = "#60B8C5"
 light-gray    = "#5f5f5e"
 white         = "#ffffff"
@@ -114,7 +114,4 @@ bg1 = "#eef1f4"
 bg2 = "#e8ebf0"
 bg3 = "#e8ebf0"
 bg4 = "#dde2e7"
-
-light-pink   = "#F9D9FD"
-
 
