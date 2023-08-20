@@ -3,6 +3,16 @@ theme = "github_light"
 [editor]
 rulers = [80, 120]
 mouse = true
+cursorline = true
+color-modes = false
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.indent-guides]
+render = true
 
 [keys.normal]
 y = "yank_main_selection_to_clipboard"
