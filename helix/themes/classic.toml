@@ -52,7 +52,7 @@
 "ui.background" = { bg = "white" }
 "ui.background.separator" = "gray"
 "ui.cursor" = { fg = "bg0", bg = "gray" }
-"ui.cursor.match" = { fg = "yellow", bg = "diff_yellow" }
+"ui.cursor.match" = { fg = "black", bg = "light-cyan"}
 "ui.cursor.insert" = { fg = "black", bg = "gray" }
 "ui.cursor.select" = { fg = "bg0", bg = "blue" }
 "ui.cursorline.primary" = { bg = "bg1" }
