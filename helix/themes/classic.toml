@@ -8,7 +8,7 @@
 "variable" = "fg"
 "variable.builtin" = "yellow"
 "variable.parameter" = "fg"
-"variable.other.member" = "yellow"
+"variable.other.member" = "light-cyan"
 "label" = "yellow"
 "punctuation" = "magenta"
 "punctuation.delimiter" = "magenta"
