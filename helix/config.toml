@@ -20,7 +20,6 @@ select = "underline"
 [editor.indent-guides]
 render = true
 
-
 [editor.statusline]
 left = ["mode", "spinner", "version-control", "file-name", "file-type"]
 right = ["diagnostics", "selections", "position", "file-encoding"]
@@ -31,9 +30,11 @@ mode.select = "SELECT"
 [keys.normal]
 y = "yank_main_selection_to_clipboard"
 p = "paste_clipboard_before"
-"@" = [
-  "move_prev_word_start",
-  "move_next_word_end",
-  "search_selection",
-  "global_search",
-]
+"$" = "goto_line_end"
+
+
+[keys.normal.space]
+"." = ":config-open"
+s = ["move_prev_word_start", "move_next_word_end", "search_selection", "global_search"]
+k = ":buffer-close"
+l = "reload"
