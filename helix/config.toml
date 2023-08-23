@@ -37,4 +37,4 @@ p = "paste_clipboard_before"
 "." = ":config-open"
 s = ["move_prev_word_start", "move_next_word_end", "search_selection", "global_search"]
 k = ":buffer-close"
-l = "reload"
+l = ":reload"
