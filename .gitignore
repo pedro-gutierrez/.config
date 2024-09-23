@@ -1,5 +1,6 @@
 nvim
-iterm2
+iterm2/sockets
+iterm2/AppSupport
 zed
 helix/runtime
 asciinema
