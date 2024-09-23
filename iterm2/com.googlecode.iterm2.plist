@@ -42098,12 +42098,14 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>CustomTabBarFontSize</key>
+	<real>0.0</real>
 	<key>DarkThemeHasBlackTitlebar</key>
 	<true/>
 	<key>Default Bookmark Guid</key>
 	<string>492EF22C-7CFF-41E0-A653-83FE5F6300C8</string>
 	<key>DefaultTabBarHeight</key>
-	<real>24</real>
+	<real>30</real>
 	<key>DimBackgroundWindows</key>
 	<true/>
 	<key>DimInactiveSplitPanes</key>
@@ -43269,7 +43271,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>LucidaConsole 13</string>
+			<string>SFMonoNerdFontComplete-Regular 13</string>
 			<key>Only The Default BG Color Uses Transparency</key>
 			<false/>
 			<key>Option Key Sends</key>
@@ -43415,7 +43417,7 @@
 			<key>Use Underline Color (Light)</key>
 			<false/>
 			<key>Vertical Spacing</key>
-			<real>1.22</real>
+			<real>1</real>
 			<key>Visual Bell</key>
 			<false/>
 			<key>Window Type</key>
