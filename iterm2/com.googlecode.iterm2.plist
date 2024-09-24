@@ -42614,7 +42614,7 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.10980392156862745</real>
+				<real>0.10196078431372549</real>
 				<key>Color Space</key>
 				<string>P3</string>
 				<key>Green Component</key>
@@ -42733,7 +42733,7 @@
 			<key>Command</key>
 			<string></string>
 			<key>Cursor Boost</key>
-			<real>0.12354166666666666</real>
+			<real>0.18989583333333335</real>
 			<key>Cursor Boost (Dark)</key>
 			<real>0.0</real>
 			<key>Cursor Boost (Light)</key>
@@ -42846,7 +42846,7 @@
 			<key>Draw Powerline Glyphs</key>
 			<true/>
 			<key>Faint Text Alpha</key>
-			<real>0.29009433962264153</real>
+			<real>0.44995577830188677</real>
 			<key>Faint Text Alpha (Dark)</key>
 			<real>0.44995577830188677</real>
 			<key>Faint Text Alpha (Light)</key>
@@ -43257,7 +43257,7 @@
 				<real>1</real>
 			</dict>
 			<key>Minimum Contrast</key>
-			<real>0.62407871462264153</real>
+			<real>0.0</real>
 			<key>Minimum Contrast (Dark)</key>
 			<real>0.0</real>
 			<key>Minimum Contrast (Light)</key>
@@ -43492,7 +43492,7 @@
 	<key>TabStyle</key>
 	<integer>3</integer>
 	<key>TabStyleWithAutomaticOption</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>TabViewType</key>
 	<integer>0</integer>
 	<key>TerminalMargin</key>
